@@ -30,7 +30,7 @@
             android:textAlignment="textEnd"
             android:textAppearance="@style/TextAppearance.AppCompat.Display4"
             android:textColor="#CFCFCF"
-            android:textSize="80sp" />
+            android:textSize="50dp" />
 
 
     </RelativeLayout>
